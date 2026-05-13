@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WFM.Domain/WFM.Domain.csproj" />
+  <Project Path="WFM.Repositorio/WFM.Repositorio.csproj" />
+</Solution>
